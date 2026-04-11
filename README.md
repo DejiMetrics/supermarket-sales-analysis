@@ -3,7 +3,6 @@
 **Description**
 
 Data analysis is valuable not only for driving revenue growth but also for supporting decision-making and optimizing strategies. This project used Microsoft Excel to clean and analyse a dataset of sales information from a superstore and to create a dashboard presenting meaningful insights. The superstore sells office supplies, furniture, and technology products to home offices, corporate clients, and general consumers. The provided dataset included order geography, profit, price, and order dates, but did not include sales figures. The purpose of this analysis was to evaluate the store's growth performance, diagnose areas of concern, and identify potential avenues for significant business growth.
-<img width="1272" height="565" alt="Screenshot 2026-04-11 at 20 10 26" src="https://github.com/user-attachments/assets/2439e98c-954b-4341-9fa9-fdd49fe5d130" />
 
 
 **Business Questions**
@@ -85,6 +84,30 @@ The state with the highest quantity sold is California, with a value of 7667.
 The low growth rates for Machines (-35%) and Chairs (10%) present a critical business challenge. A focused marketing strategy must be implemented in these areas to stimulate sales and drive growth.
 
 <img width="329" height="163" alt="image" src="https://github.com/user-attachments/assets/7b36dca0-5956-493e-967a-b550180890a6" />
+
+**Key Recommendations**
+
+<img width="1272" height="565" alt="Screenshot 2026-04-11 at 20 10 26" src="https://github.com/user-attachments/assets/2439e98c-954b-4341-9fa9-fdd49fe5d130" />
+
+. Due to the categories showing negative growth rate in the tables. The supermarket should look closely to understand why. It could be because the market is full, the product quality is low, or competitors have better prices. Then they should decide what to do next.
+
+.The supermarket should focus on making more revenue in areas that are growing fast. This can be done by increasing stock and improving marketing.
+
+. On checking "total sales by ship mode" Most deliveries are standard class (60%). If the supermarket wants to compete with modern retailers, it should check if offering cheaper same-day or first-class delivery would make customers happier.
+
+In the "total sales by customer" A lot of sales come from a small number of customers. If these customers leave, revenue will drop a lot. The supermarket should create a loyalty program to encourage smaller customers to buy more and reduce this risk.
+
+. Sales change a lot during the year while looking at the "sale by month". They are higher at the end of the year and lower at the start. To keep income steady, the supermarket should run promotions during the slower months (first and second quarters).
+
+
+
+
+
+
+
+
+
+
 
 
 
