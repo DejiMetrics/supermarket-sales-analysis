@@ -3,6 +3,8 @@
 **Description**
 
 Data analysis is valuable not only for driving revenue growth but also for supporting decision-making and optimizing strategies. This project used Microsoft Excel to clean and analyse a dataset of sales information from a superstore and to create a dashboard presenting meaningful insights. The superstore sells office supplies, furniture, and technology products to home offices, corporate clients, and general consumers. The provided dataset included order geography, profit, price, and order dates, but did not include sales figures. The purpose of this analysis was to evaluate the store's growth performance, diagnose areas of concern, and identify potential avenues for significant business growth.
+<img width="1272" height="565" alt="Screenshot 2026-04-11 at 20 10 26" src="https://github.com/user-attachments/assets/2439e98c-954b-4341-9fa9-fdd49fe5d130" />
+
 
 **Business Questions**
 
