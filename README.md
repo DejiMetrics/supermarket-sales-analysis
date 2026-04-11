@@ -85,6 +85,8 @@ The low growth rates for Machines (-35%) and Chairs (10%) present a critical bus
 
 <img width="329" height="163" alt="image" src="https://github.com/user-attachments/assets/7b36dca0-5956-493e-967a-b550180890a6" />
 
+
+
 **Key Recommendations**
 
 <img width="1272" height="565" alt="Screenshot 2026-04-11 at 20 10 26" src="https://github.com/user-attachments/assets/2439e98c-954b-4341-9fa9-fdd49fe5d130" />
