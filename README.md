@@ -89,7 +89,8 @@ The low growth rates for Machines (-35%) and Chairs (10%) present a critical bus
 
 **Key Recommendations**
 
-<img width="1272" height="565" alt="Screenshot 2026-04-11 at 20 10 26" src="https://github.com/user-attachments/assets/2439e98c-954b-4341-9fa9-fdd49fe5d130" />
+<img width="1271" height="583" alt="Screenshot 2026-04-13 at 14 43 46" src="https://github.com/user-attachments/assets/fc2346b0-ce17-4f0d-a704-54d0edb35c03" />
+
 
 . Due to the categories showing negative growth rate in the tables. The supermarket should look closely to understand why. It could be because the market is full, the product quality is low, or competitors have better prices. Then they should decide what to do next.
 
